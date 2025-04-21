@@ -3,5 +3,9 @@
 }
 div {
 	font-family: 'Times New Roman', Times, serif;
-	color: blue;
+	color: blue;	
+}
+p {
+	background-color: antiquewhite;
+	width: 80%;
 }
